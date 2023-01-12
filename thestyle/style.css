@@ -10,6 +10,10 @@
     width: 24px;
 }
 
+.footer {
+  position: fixed;
+  bottom: 0;
+}
 .footer-1 {
     display: flex;
     justify-content: space-between;
